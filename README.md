@@ -33,7 +33,7 @@ I'm unsure what will happen to projects after they are completed, they may not b
 ---
 
 # Project 1
-### (TAKEN BY @LU-SIFE)
+### :red_circle: (TAKEN BY @LU-SIFE)
 
 - 1 Week
 
@@ -46,7 +46,7 @@ I'm unsure what will happen to projects after they are completed, they may not b
 ---
 
 ## Project 2
-### (AVAILABLE)
+### :green_circle: (AVAILABLE)
 
 Time Frame
 
@@ -59,7 +59,7 @@ Contact Info (?)
 ---
 
 ## Project 3
-### (AVAILABLE)
+### :green_circle: (AVAILABLE)
 
 Time Frame
 
@@ -72,7 +72,7 @@ Contact Info (?)
 ---
 
 ## Project 4
-### (AVAILABLE)
+### :green_circle: (AVAILABLE)
 
 Time Frame
 
@@ -85,7 +85,7 @@ Contact Info (?)
 ---
 
 ## Project 5
-### (AVAILABLE)
+### :green_circle: (AVAILABLE)
 
 Time Frame
 
@@ -98,7 +98,7 @@ Contact Info (?)
 ---
 
 ## Project 6
-### (AVAILABLE)
+### :green_circle: (AVAILABLE)
 
 Time Frame
 
@@ -111,7 +111,7 @@ Contact Info (?)
 ---
 
 ## Project 7
-### (AVAILABLE)
+### :green_circle: (AVAILABLE)
 
 Time Frame
 
@@ -124,7 +124,7 @@ Contact Info (?)
 ---
 
 ## Project 8
-### (AVAILABLE)
+### :green_circle: (AVAILABLE)
 
 Time Frame
 
@@ -137,7 +137,7 @@ Contact Info (?)
 ---
 
 ## Project 9
-### (AVAILABLE)
+### :green_circle: (AVAILABLE)
 
 Time Frame
 
@@ -150,7 +150,7 @@ Contact Info (?)
 ---
 
 ## Project 10
-### (AVAILABLE)
+### :green_circle: (AVAILABLE)
 
 Time Frame
 
@@ -163,7 +163,7 @@ Contact Info (?)
 ---
 
 ## Project 11
-### (AVAILABLE)
+### :green_circle: (AVAILABLE)
 
 Time Frame
 
@@ -176,7 +176,7 @@ Contact Info (?)
 ---
 
 ## Project 12
-### (AVAILABLE)
+### :green_circle: (AVAILABLE)
 
 Time Frame
 
@@ -189,7 +189,7 @@ Contact Info (?)
 ---
 
 ## Project 13
-### (AVAILABLE)
+### :green_circle: (AVAILABLE)
 
 Time Frame
 
@@ -202,7 +202,7 @@ Contact Info (?)
 ---
 
 ## Project 14
-### (AVAILABLE)
+### :green_circle: (AVAILABLE)
 
 Time Frame
 
