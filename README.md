@@ -1,4 +1,4 @@
-# Web-Dev-Ticketing
+# Web Dev Ticketing
 
 This repository is an example of what the ticketing system could look like. The below links take you to each project available.
 
