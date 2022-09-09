@@ -56,7 +56,7 @@ The general Markdown formatting for new entries is as follows:
 >
 > - Web Dev is a class which has several projects students work on.
 >
-> - Web Dev has 30+ projects on Backlog, and needs a way to manage them all with an organized system where all projects can be listed, viewed, and added on to.
+> - Web Dev has 30+ projects on Backlog, and needs a way to manage them all with an organized system where all projects can be listed, viewed, and added on to. Organization and collaboration is an important feature to be implemented.
 >
 > - Contact Info (?)
 
