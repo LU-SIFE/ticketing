@@ -6,10 +6,12 @@ When a project is ready to be worked on, this README page can & will be updated 
 
 New projects can be added by opening a new issue, which is quickly reviewed, and then the details of the new project is posted to the README.
 
+Project #1 is an example project, I will use this ticketing system as an example.
+
 
 ---
 
-- [x] [Example Project #1](#Project-1) (Taken)<br>
+- [x] [Ticketing System #1](#Project-1) (Taken)<br>
 - [ ] [Example Project #2](#Project-2) (Available)<br>
 - [ ] [Example Project #3](#Project-3) (Available)<br>
 - [ ] [Example Project #4](#Project-4) (Available)<br>
@@ -29,13 +31,13 @@ New projects can be added by opening a new issue, which is quickly reviewed, and
 # Project 1
 ### (TAKEN BY @LU-SIFE)
 
-Time Frame
+- 1 Week
 
-About the Business
+- Web Dev is a class which has several projects students work on.
 
-Description/General Project Scope
+- Web Dev has 30+ projects on Backlog, and needs a way to manage them all with an organized system where all projects can be listed, viewed, and added on to.
 
-Contact Info (?)
+- Contact Info (?)
 
 ---
 
