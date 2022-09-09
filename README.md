@@ -9,20 +9,20 @@ New projects can be added by opening a new issue, which is quickly reviewed, and
 
 ---
 
-[Example Project #1](#Project-1) (Taken)<br>
-[Example Project #2](#Project-2) (Available)<br>
-[Example Project #3](#Project-3) (Available)<br>
-[Example Project #4](#Project-4) (Available)<br>
-[Example Project #5](#Project-5) (Available)<br>
-[Example Project #6](#Project-6) (Available)<br>
-[Example Project #7](#Project-7) (Available)<br>
-[Example Project #8](#Project-8) (Available)<br>
-[Example Project #9](#Project-9) (Available)<br>
-[Example Project #10](#Project-10) (Available)<br>
-[Example Project #11](#Project-11) (Available)<br>
-[Example Project #12](#Project-12) (Available)<br>
-[Example Project #13](#Project-13) (Available)<br>
-[Example Project #14](#Project-14) (Available)<br>
+[x] [Example Project #1](#Project-1) (Taken)<br>
+[ ] [Example Project #2](#Project-2) (Available)<br>
+[ ] [Example Project #3](#Project-3) (Available)<br>
+[ ] [Example Project #4](#Project-4) (Available)<br>
+[ ] [Example Project #5](#Project-5) (Available)<br>
+[ ] [Example Project #6](#Project-6) (Available)<br>
+[ ] [Example Project #7](#Project-7) (Available)<br>
+[ ] [Example Project #8](#Project-8) (Available)<br>
+[ ] [Example Project #9](#Project-9) (Available)<br>
+[ ] [Example Project #10](#Project-10) (Available)<br>
+[ ] [Example Project #11](#Project-11) (Available)<br>
+[ ] [Example Project #12](#Project-12) (Available)<br>
+[ ] [Example Project #13](#Project-13) (Available)<br>
+[ ] [Example Project #14](#Project-14) (Available)<br>
 
 ---
 
