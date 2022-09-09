@@ -1,5 +1,13 @@
 # Web-Dev-Ticketing
-a test repo to demonstrate a ticketing idea/concept
+
+This repository is an example of what the ticketing system could look like. The below links take you to each project available.
+
+When a project is ready to be worked on, this README page can & will be updated to reflect which projects are available, and which are taken, and by whom.
+
+New projects can be added by opening a new issue, which is quickly reviewed, and then the details of the new project is posted to the README.
+
+
+---
 
 [Example Project #1](#Project-1)<br>
 [Example Project #2](#Project-2)<br>
