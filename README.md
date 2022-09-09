@@ -12,6 +12,21 @@ Project #1 is an example project, I will use this ticketing system as an example
 
 I'm unsure what will happen to projects after they are completed, they may not be touched, archived, or outright removed.
 
+The general Markdown formatting for new entries is as follows:
+
+```
+## Project Name
+### :green_circle: (AVAILABLE)
+
+> - Time Frame
+>
+> - About the Business
+>
+> - Description/General Project Scope
+>
+> - Contact Info (?)
+```
+
 
 ---
 
@@ -35,180 +50,179 @@ I'm unsure what will happen to projects after they are completed, they may not b
 # Project 1
 ### :red_circle: (TAKEN BY @LU-SIFE)
 
-- 1 Week
-
-- Web Dev is a class which has several projects students work on.
-
-- Web Dev has 30+ projects on Backlog, and needs a way to manage them all with an organized system where all projects can be listed, viewed, and added on to.
-
-- Contact Info (?)
+> - 1 Week
+>
+> - Web Dev is a class which has several projects students work on.
+>
+> - Web Dev has 30+ projects on Backlog, and needs a way to manage them all with an organized system where all projects can be listed, viewed, and added on to.
+>
+> - Contact Info (?)
 
 ---
 
 ## Project 2
 ### :green_circle: (AVAILABLE)
 
-Time Frame
-
-About the Business
-
-Description/General Project Scope
-
-Contact Info (?)
+> - Time Frame
+>
+> - About the Business
+>
+> - Description/General Project Scope
+>
+> - Contact Info (?)
 
 ---
 
 ## Project 3
 ### :green_circle: (AVAILABLE)
 
-Time Frame
-
-About the Business
-
-Description/General Project Scope
-
-Contact Info (?)
+> - Time Frame
+>
+> - About the Business
+>
+> - Description/General Project Scope
+>
+> - Contact Info (?)
 
 ---
 
 ## Project 4
 ### :green_circle: (AVAILABLE)
 
-Time Frame
-
-About the Business
-
-Description/General Project Scope
-
-Contact Info (?)
+> - Time Frame
+>
+> - About the Business
+>
+> - Description/General Project Scope
+>
+> - Contact Info (?)
 
 ---
 
 ## Project 5
 ### :green_circle: (AVAILABLE)
 
-Time Frame
-
-About the Business
-
-Description/General Project Scope
-
-Contact Info (?)
+> - Time Frame
+>
+> - About the Business
+>
+> - Description/General Project Scope
+>
+> - Contact Info (?)
 
 ---
 
 ## Project 6
 ### :green_circle: (AVAILABLE)
 
-Time Frame
-
-About the Business
-
-Description/General Project Scope
-
-Contact Info (?)
+> - Time Frame
+>
+> - About the Business
+>
+> - Description/General Project Scope
+>
+> - Contact Info (?)
 
 ---
 
 ## Project 7
 ### :green_circle: (AVAILABLE)
 
-Time Frame
-
-About the Business
-
-Description/General Project Scope
-
-Contact Info (?)
+> - Time Frame
+>
+> - About the Business
+>
+> - Description/General Project Scope
+>
+> - Contact Info (?)
 
 ---
 
 ## Project 8
 ### :green_circle: (AVAILABLE)
 
-Time Frame
-
-About the Business
-
-Description/General Project Scope
-
-Contact Info (?)
+> - Time Frame
+>
+> - About the Business
+>
+> - Description/General Project Scope
+>
+> - Contact Info (?)
 
 ---
 
 ## Project 9
 ### :green_circle: (AVAILABLE)
 
-Time Frame
-
-About the Business
-
-Description/General Project Scope
-
-Contact Info (?)
+> - Time Frame
+>
+> - About the Business
+>
+> - Description/General Project Scope
+>
+> - Contact Info (?)
 
 ---
 
 ## Project 10
 ### :green_circle: (AVAILABLE)
 
-Time Frame
-
-About the Business
-
-Description/General Project Scope
-
-Contact Info (?)
+> - Time Frame
+>
+> - About the Business
+>
+> - Description/General Project Scope
+>
+> - Contact Info (?)
 
 ---
 
 ## Project 11
 ### :green_circle: (AVAILABLE)
 
-Time Frame
-
-About the Business
-
-Description/General Project Scope
-
-Contact Info (?)
+> - Time Frame
+>
+> - About the Business
+>
+> - Description/General Project Scope
+>
+> - Contact Info (?)
 
 ---
 
 ## Project 12
 ### :green_circle: (AVAILABLE)
 
-Time Frame
-
-About the Business
-
-Description/General Project Scope
-
-Contact Info (?)
+> - Time Frame
+>
+> - About the Business
+>
+> - Description/General Project Scope
+>
+> - Contact Info (?)
 
 ---
 
 ## Project 13
 ### :green_circle: (AVAILABLE)
 
-Time Frame
-
-About the Business
-
-Description/General Project Scope
-
-Contact Info (?)
+> - Time Frame
+>
+> - About the Business
+>
+> - Description/General Project Scope
+>
+> - Contact Info (?)
 
 ---
 
 ## Project 14
 ### :green_circle: (AVAILABLE)
 
-Time Frame
-
-About the Business
-
-Description/General Project Scope
-
-Contact Info (?)
-
+> - Time Frame
+>
+> - About the Business
+>
+> - Description/General Project Scope
+>
+> - Contact Info (?)
