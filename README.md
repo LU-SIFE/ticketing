@@ -29,7 +29,6 @@ New projects can be added by opening a new issue, which is quickly reviewed, and
 # Project 1
 ### (TAKEN BY @LU-SIFE)
 
-
 Time Frame
 
 About the Business
