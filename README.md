@@ -30,20 +30,20 @@ The general Markdown formatting for new entries is as follows:
 
 ---
 
-- [x] [Ticketing System](#Project-1) (Taken)<br>
-- [ ] [Example Project #2](#Project-2) (Available)<br>
-- [ ] [Example Project #3](#Project-3) (Available)<br>
-- [ ] [Example Project #4](#Project-4) (Available)<br>
-- [ ] [Example Project #5](#Project-5) (Available)<br>
-- [ ] [Example Project #6](#Project-6) (Available)<br>
-- [ ] [Example Project #7](#Project-7) (Available)<br>
-- [ ] [Example Project #8](#Project-8) (Available)<br>
-- [ ] [Example Project #9](#Project-9) (Available)<br>
-- [ ] [Example Project #10](#Project-10) (Available)<br>
-- [ ] [Example Project #11](#Project-11) (Available)<br>
-- [ ] [Example Project #12](#Project-12) (Available)<br>
-- [ ] [Example Project #13](#Project-13) (Available)<br>
-- [ ] [Example Project #14](#Project-14) (Available)<br>
+- :red_circle: [Ticketing System](#Project-1) (Taken)<br>
+- :green_circle: [Example Project #2](#Project-2) (Available)<br>
+- :green_circle: [Example Project #3](#Project-3) (Available)<br>
+- :green_circle: [Example Project #4](#Project-4) (Available)<br>
+- :green_circle: [Example Project #5](#Project-5) (Available)<br>
+- :green_circle: [Example Project #6](#Project-6) (Available)<br>
+- :green_circle: [Example Project #7](#Project-7) (Available)<br>
+- :green_circle: [Example Project #8](#Project-8) (Available)<br>
+- :green_circle: [Example Project #9](#Project-9) (Available)<br>
+- :green_circle: [Example Project #10](#Project-10) (Available)<br>
+- :green_circle: [Example Project #11](#Project-11) (Available)<br>
+- :green_circle: [Example Project #12](#Project-12) (Available)<br>
+- :green_circle: [Example Project #13](#Project-13) (Available)<br>
+- :green_circle: [Example Project #14](#Project-14) (Available)<br>
 
 ---
 
