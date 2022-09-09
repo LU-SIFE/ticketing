@@ -10,6 +10,8 @@ We can have several people review the new issues/projects,
 
 Project #1 is an example project, I will use this ticketing system as an example.
 
+I'm unsure what will happen to projects after they are completed, they may not be touched, archived, or outright removed.
+
 
 ---
 
