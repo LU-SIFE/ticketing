@@ -32,7 +32,7 @@ The general Markdown formatting for new entries is as follows:
 
 ---
 
-- :red_circle: [Ticketing System](#Project-1) (Taken)<br>
+- :red_circle: [Ticketing System](#Ticketing-System) (Taken)<br>
 - :green_circle: [Example Project #2](#Project-2) (Available)<br>
 - :green_circle: [Example Project #3](#Project-3) (Available)<br>
 - :green_circle: [Example Project #4](#Project-4) (Available)<br>
@@ -49,7 +49,7 @@ The general Markdown formatting for new entries is as follows:
 
 ---
 
-# Project 1
+# Ticketing System
 ### :red_circle: (TAKEN BY @LU-SIFE)
 
 > - 1 Week
