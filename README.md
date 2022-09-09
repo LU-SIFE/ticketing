@@ -6,7 +6,7 @@ When a project is ready to be worked on, this README page can & will be updated 
 
 New projects can be added by opening a new issue, which is quickly reviewed, and then the details of the new project is posted to the README. These can be opened by anyone.
 
-We can have several people review the new issues/projects, 
+We can have several people review the new issues/projects, and maybe automate this process later on. 
 
 Project #1 is an example project, I will use this ticketing system as an example.
 
