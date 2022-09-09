@@ -50,7 +50,7 @@ The general Markdown formatting for new entries is as follows:
 ---
 
 # Ticketing System
-### :red_circle: (TAKEN BY @LU-SIFE)
+### :red_circle: (TAKEN BY [@LU-SIFE](https://github.com/LU-SIFE))
 
 > - 1 Week
 >
