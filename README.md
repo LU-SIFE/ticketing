@@ -12,6 +12,8 @@ Project #1 is an example project, I will use this ticketing system as an example
 
 I'm unsure what will happen to projects after they are completed, they may not be touched, archived, or outright removed.
 
+Maybe a program will be developed to interface with this README, to make new project addition easier.
+
 The general Markdown formatting for new entries is as follows:
 
 ```
