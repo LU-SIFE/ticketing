@@ -18,6 +18,8 @@ The Wiki feature can also be used for each individual project, and maybe leave a
 
 The only issue I have with this github solution, is the effort it takes to edit this README. Opening the raw code for this and adding onto it can be a pain sometimes, and there is no automation at all.
 
+It may be a good opportunity for students to become familiar with github and some of it's properties.
+
 The general Markdown formatting for new entries is as follows:
 
 ```
