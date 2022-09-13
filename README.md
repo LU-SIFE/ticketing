@@ -47,6 +47,7 @@ and the following lines should be added to the project entry:
 ```
 >
 > - [Link to Github Repository/Project](Link goes here)
+```
 ---
 
 - :red_circle: [Ticketing System](#Ticketing-System) (Taken)<br>
