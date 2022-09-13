@@ -39,6 +39,11 @@ The general Markdown formatting for new entries is as follows:
 ---
 ```
 
+When a project is ready to be taken on by a group, line 2 would be changed to the following:
+```
+### :red_circle: (TAKEN BY [@USER1](user_profile_url), [@USER2](user2_profile_url))
+```
+
 
 ---
 
