@@ -33,6 +33,8 @@ The general Markdown formatting for new entries is as follows:
 > - Description/General Project Scope
 >
 > - Contact Info (?)
+
+---
 ```
 
 
