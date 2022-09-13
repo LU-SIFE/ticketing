@@ -16,7 +16,7 @@ Maybe a program will be developed to interface with this README, to make new pro
 
 The Wiki feature can also be used for each individual project, and maybe leave a [scrumblr.ca](http://scrumblr.ca/) link for each team.
 
-The Discussions page can be used for students to converse, generate ideas, hold polls, ask questions, and show off work to other students.
+The [Discussions](https://github.com/LU-SIFE/Web-Dev-Ticketing/discussions) page can be used for students to converse, generate ideas, hold polls, ask questions, and show off work to other students.
 
 The only issue I have with this github solution, is the effort it takes to edit this README. Opening the raw code for this and adding onto it can be a pain sometimes, and there is no automation at all.
 
