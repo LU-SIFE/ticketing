@@ -6,7 +6,7 @@ When a project is ready to be worked on, this README page can & will be updated 
 
 New projects can be added by opening a [new issue](https://github.com/LU-SIFE/Web-Dev-Ticketing/issues/1), which is quickly reviewed, and then the details of the new project is posted to the README. These can be opened by anyone.
 
-We can have several people review the new issues/projects, and maybe automate this process later on. 
+We can have several people review the new issues/projects, and maybe automate this process later on, and a general checklist of code/push reviews can be found in the [wiki](https://github.com/LU-SIFE/Web-Dev-Ticketing/wiki) section.
 
 Project #1 is an example project, I will use this ticketing system as an example.
 
