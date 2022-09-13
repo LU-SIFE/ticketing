@@ -43,8 +43,10 @@ When a project is ready to be taken on by a group, line 2 would be changed to th
 ```
 ### :red_circle: (TAKEN BY [@USER1](user_profile_url), [@USER2](user2_profile_url))
 ```
-
-
+and the following lines should be added to the project entry:
+```
+>
+> - [Link to Github Repository/Project](Link goes here)
 ---
 
 - :red_circle: [Ticketing System](#Ticketing-System) (Taken)<br>
@@ -74,6 +76,8 @@ When a project is ready to be taken on by a group, line 2 would be changed to th
 > - Web Dev has 30+ projects on Backlog, and needs a way to manage them all with an organized system where all projects can be listed, viewed, and added on to. Organization and collaboration is an important feature to be implemented.
 >
 > - Contact Info (?)
+>
+> - [Link To Github Repository/Project](https://github.com/LU-SIFE/Web-Dev-Ticketing)
 
 ---
 
