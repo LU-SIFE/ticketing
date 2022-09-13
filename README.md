@@ -4,7 +4,7 @@ This repository is an example of what the ticketing system could look like. The 
 
 When a project is ready to be worked on, this README page can & will be updated to reflect which projects are available, and which are taken, and by whom.
 
-New projects can be added by opening a new issue, which is quickly reviewed, and then the details of the new project is posted to the README. These can be opened by anyone.
+New projects can be added by opening a [new issue](https://github.com/LU-SIFE/Web-Dev-Ticketing/issues/1), which is quickly reviewed, and then the details of the new project is posted to the README. These can be opened by anyone.
 
 We can have several people review the new issues/projects, and maybe automate this process later on. 
 
