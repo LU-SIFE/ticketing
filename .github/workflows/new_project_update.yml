@@ -1,14 +1,9 @@
-name: Test-Workflow
-
 on: issues
-  types:
-    -labeled
-    jobs:
-    echo-details:
-      runs-on: ubuntu-latest
-      permissions:
-        issues: read
-        steps:
-         run: |
-          echo "Issue title: ${{ github.event.issue.title }}"
-          echo "Issue body: ${{ github.event.issue.body }}"
+jobs:
+job1:
+runs-on: ubuntu-latest
+steps:
+- name: View issue information
+run: |
+echo "Issue title: ${{ github.event.issue.title }}"
+echo "Issue body: ${{ github.event.issue.body }}"
