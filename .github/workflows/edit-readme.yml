@@ -8,6 +8,7 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2.3.2
+      - name: changes crap
         run: "ls"
       - name: Commit and push changes
         run: "git config --global user.name 'LU-SIFE'"
