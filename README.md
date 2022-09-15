@@ -26,7 +26,7 @@ Project #1 is an example project, I will use this ticketing system as an example
 >
 > - Web Dev has 30+ projects on Backlog, and needs a way to manage them all with an organized system where all projects can be listed, viewed, and added on to. Organization and collaboration is an important feature to be implemented.
 >
-> - Github Proficiency
+> - Skills: Github Proficiency
 >
 > - Difficulty: 2
 >
@@ -45,7 +45,7 @@ Project #1 is an example project, I will use this ticketing system as an example
 >
 > - Medical patient and charting database
 >
-> - SQL (maybe idk)
+> - Skills: SQL (maybe idk)
 >
 > - Difficulty: 4
 >
