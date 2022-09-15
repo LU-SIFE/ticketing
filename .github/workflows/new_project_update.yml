@@ -1,4 +1,13 @@
-name: View the github context
-run: echo "$GITHUB_CONTEXT"
-env:
-  GITHUB_CONTEXT: ${{ toJson(github) }}
+name: echo issue
+
+on: issues
+
+jobs:
+  greeting:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: read
+    steps:
+      -run: |
+      echo "Issue title: ${{ github.event.issue.title }}"
+      echo "Issue body: ${{ github.event.issue.body }}"
