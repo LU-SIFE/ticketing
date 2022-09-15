@@ -4,6 +4,7 @@ on:
 jobs:
   new-job:
     name: Modifiy repository files
+    permissions: write
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
