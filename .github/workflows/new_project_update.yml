@@ -1,7 +1,10 @@
-name: Issue Reader
 on: issues
 jobs:
-    your_job_name:
-        steps:
-          run: echo "Issue title: ${{ github.event.issue.title }}"
-          run: echo "Issue body: ${{ github.event.issue.body }}"
+job1:
+runs-on: ubuntu-latest
+steps:
+- name: View issue information
+run: |
+echo "Issue title: ${{ github.event.issue.title }}"
+echo "Issue body: ${{ github.event.issue.body }}"
+
