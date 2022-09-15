@@ -1,17 +1,17 @@
+name: Issue yoinker
 
-name: Labeler
-on: [issues]
+on: 
+  issues:
+    types:
+      -opened
+      -labeled
+
 
 jobs:
-  label:
+  echo_issue:
     runs-on: ubuntu-latest
-    permissions:
-      issues: read
-      contents: read
-      pull-requests: write
-
     steps:
-      -name: echos issue content
-      run: echo "Issue title: ${{ github.event.issue.title }}"
-      -name: wtf
-      run: echo "Issue body: ${{ github.event.issue.body }}"
+      - name: head content
+      run: echo "heya!"
+      - name: body content
+      run: echo "heyo!"
