@@ -14,6 +14,6 @@ jobs:
 
     steps:
       - name: Print the input name to STDOUT
-        run: echo "Issue title: ${{ github.event.issue.title }}"
+        run: echo "$GITHUB_CONTXT"
         env:
-          GITHUB_CONTEXT: ${{ toJson(github) }}
+          GITHUB_CONTEXT: ${{ toJson(github.event.issue.title) }}
