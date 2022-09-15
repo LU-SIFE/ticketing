@@ -38,6 +38,8 @@ Project #1 is an example project, I will use this ticketing system as an example
 >
 > - Web Dev has 30+ projects on Backlog, and needs a way to manage them all with an organized system where all projects can be listed, viewed, and added on to. Organization and collaboration is an important feature to be implemented.
 >
+> - Difficulty: 2
+>
 > - Contact Info (?)
 >
 > - [Link To Github Repository/Project](https://github.com/LU-SIFE/Web-Dev-Ticketing)
@@ -52,6 +54,8 @@ Project #1 is an example project, I will use this ticketing system as an example
 > - About the Business
 >
 > - Description/General Project Scope
+>
+> - Difficulty
 >
 > - Contact Info (?)
 
