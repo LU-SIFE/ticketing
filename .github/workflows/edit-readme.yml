@@ -1,7 +1,6 @@
 name: test
 on:
   workflow_dispatch: #
-
 jobs:
   new-job:
     name: Modifiy repository files
@@ -9,14 +8,13 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2.3.2
-  - name: Modifiy the specific files using scripts
-    run: "ls"
+      - name: Modifiy the specific files using scripts
+        run: "ls"
+        - name: Commit and push changes
+         run: |
+         git config --global user.name "your username"
+         git config --global user.email "your email"
 
-  - name: Commit and push changes
-    run: |
-      git config --global user.name "your username"
-      git config --global user.email "your email"
-
-      git add -A
-      git commit -m "commit message"
-      git push
+         git add -A
+         git commit -m "commit message"
+         git push
