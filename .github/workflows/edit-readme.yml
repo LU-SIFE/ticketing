@@ -1,14 +1,29 @@
 name: test
 on:
   workflow_dispatch: #
+  issues:
+    types:
+      - labeled
 jobs:
-  new-job:
-    name: Modifiy repository files
+  add-comment:
+    if: github.event.label.name == 'New Project'
     runs-on: ubuntu-latest
     steps:
+      - name: Add comment
+        uses: peter-evans/create-or-update-comment@a35cf36e5301d70b76f316e867e7788a55a31dae
+        with:
+          issue-number: ${{ github.event.issue.number }}
+          body: |
+            Thanks for adding a new project to the readme!
+            (this is automated lol)
+
       - name: Checkout repository
         uses: actions/checkout@v2.3.2
-      - name: Commit and push changes
-        run: ls
+
+      - name: Fetch issue content 
+        run: echo "Issue title: ${{ github.event.issue.title }}"
+        run: echo "Issue body: ${{ github.event.issue.body }}"
+
+
       - name: Git Auto Commit
         uses: stefanzweifel/git-auto-commit-action@v4.14.1
