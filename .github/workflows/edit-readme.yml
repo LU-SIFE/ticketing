@@ -20,9 +20,10 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2.3.2
 
-      - name: Fetch issue content 
-        run: echo "Issue title: ${{ github.event.issue.title }}"
-        run: echo "Issue body: ${{ github.event.issue.body }}"
+      - name: View issue information
+      run: |
+      echo "Issue title: ${{ github.event.issue.title }}"
+      echo "Issue body: ${{ github.event.issue.body }}"
 
 
       - name: Git Auto Commit
