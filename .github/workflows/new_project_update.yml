@@ -1,12 +1,16 @@
-name: echo issue
 
-on: issues
+name: Labeler
+on: [issues]
 
 jobs:
-  greeting:
+  label:
     runs-on: ubuntu-latest
     permissions:
       issues: read
+      contents: read
+      pull-requests: write
+
     steps:
-      -run: echo "Issue title: ${{ github.event.issue.title }}"
-      -run: echo "Issue body: ${{ github.event.issue.body }}"
+      -run: |
+      echo "Issue title: ${{ github.event.issue.title }}"
+      echo "Issue body: ${{ github.event.issue.body }}"
