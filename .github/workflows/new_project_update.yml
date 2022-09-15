@@ -11,6 +11,7 @@ jobs:
       pull-requests: write
 
     steps:
-      -run: |
-      echo "Issue title: ${{ github.event.issue.title }}"
-      echo "Issue body: ${{ github.event.issue.body }}"
+      -name: echos issue content
+      run: echo "Issue title: ${{ github.event.issue.title }}"
+      -name: wtf
+      run: echo "Issue body: ${{ github.event.issue.body }}"
