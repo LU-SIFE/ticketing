@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Print the input name to STDOUT
+      - name: Print data
         run: echo "$GITHUB_CONTXT"
         env:
-          GITHUB_CONTEXT: ${{ toJson(github.event.issue.title) }}
+          GITHUB_CONTEXT: ${{ toJson(github.repository) }}
