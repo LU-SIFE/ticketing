@@ -18,8 +18,8 @@ Project #1 is an example project, I will use this ticketing system as an example
 ---
 
 # Ticketing System
-### :red_circle: (TAKEN BY [@LU-SIFE](https://github.com/LU-SIFE))
-
+>### :red_circle: (TAKEN BY [@LU-SIFE](https://github.com/LU-SIFE))
+>
 > - 1 Week
 >
 > - Web Dev is a class which has several projects students work on.
@@ -37,8 +37,8 @@ Project #1 is an example project, I will use this ticketing system as an example
 ---
 
 ## Medical Assisting
-### :green_circle: (AVAILABLE)
-
+> ### :green_circle: (AVAILABLE)
+>
 > - 1 year
 >
 > - Catalyst Center Medical Assisting
