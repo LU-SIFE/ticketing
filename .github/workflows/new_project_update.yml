@@ -1,19 +1,18 @@
+name: Label issues
 on:
-  workflow_dispatch: # Put here!!
-    workflow_call:
-      inputs:
-        username:
-          description: 'A username passed from the caller workflow'
-          default: 'john-doe'
-          required: false
-          type: string
-
+  issues:
+    types:
+      - reopened
+      - opened
 jobs:
-  print-username:
+  label_issues:
     runs-on: ubuntu-latest
-
+    permissions:
+      issues: write
+      issues: read
     steps:
-      - name: Print data
-        run: echo "$GITHUB_CONTXT"
-        env:
-          GITHUB_CONTEXT: ${{ toJson(github.repository) }}
+      - name: Label issues
+        uses: andymckay/labeler@e6c4322d0397f3240f0e7e30a33b5c5df2d39e90
+        with:
+          add-labels: "New Project"
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
