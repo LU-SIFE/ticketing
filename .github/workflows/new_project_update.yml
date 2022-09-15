@@ -1,8 +1,8 @@
 on: issues
 jobs:
-    job_name:
-        steps:
-          - name: View issue information
-          run: |
-          echo "Issue title: ${{ github.event.issue.title }}"
-          echo "Issue body: ${{ github.event.issue.body }}"
+  job_name:
+    steps:
+      - name: View issue information
+      run: |
+      echo "Issue title: ${{ github.event.issue.title }}"
+      echo "Issue body: ${{ github.event.issue.body }}"
