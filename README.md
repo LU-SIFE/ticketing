@@ -10,7 +10,7 @@ New projects can be added by opening a [new issue](https://github.com/LU-SIFE/We
 
 Students can also use or open issues to discuss problems they are having with a specific project.
 
-(If anyone has any github workflows experience, it would be greatly appreciated, I am working on a self-updating README, and it would be EXTREMELY helpful lol, shoot me an email, or open a new issue and mention me or something.)
+>(If anyone has any github workflows experience, it would be greatly appreciated, I am working on a self-updating README, and it would be EXTREMELY helpful lol, shoot me an email, or open a new issue and mention me or something.)
 
 Project #1 is an example project, I will use this ticketing system as an example.
 
