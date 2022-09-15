@@ -13,7 +13,7 @@ Project #1 is an example project, I will use this ticketing system as an example
 ---
 
 - :red_circle: [Ticketing System](#Ticketing-System) (Taken)<br>
-- :green_circle: [Medical Assisting #2](#Medical-Assisting) (Available)<br>
+- :green_circle: [Medical Assisting](#Medical-Assisting) (Available)<br>
 
 ---
 
@@ -25,6 +25,8 @@ Project #1 is an example project, I will use this ticketing system as an example
 > - Web Dev is a class which has several projects students work on.
 >
 > - Web Dev has 30+ projects on Backlog, and needs a way to manage them all with an organized system where all projects can be listed, viewed, and added on to. Organization and collaboration is an important feature to be implemented.
+>
+> - Github Proficiency
 >
 > - Difficulty: 2
 >
@@ -42,6 +44,8 @@ Project #1 is an example project, I will use this ticketing system as an example
 > - Catalyst Center Medical Assisting
 >
 > - Medical patient and charting database
+>
+> - SQL (maybe idk)
 >
 > - Difficulty: 4
 >
