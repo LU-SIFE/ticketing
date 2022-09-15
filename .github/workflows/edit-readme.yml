@@ -12,7 +12,6 @@ jobs:
       - name: Commit and push changes
         run: "git config --global user.name 'LU-SIFE'"
         run: "git config --global user.email 'michaelleix@outlook.com'"
-        run: |
-        "git add -A"
-        "git commit -m 'Update files'"
-        "git push"
+        run: "git add -A"
+        run: "git commit -m 'Update files'"
+        run: "git push"
