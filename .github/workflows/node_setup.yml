@@ -1,5 +1,10 @@
 on:
   workflow_dispatch
 
-name: Setup Node.js environment
-uses: actions/setup-node@v3.4.1
+steps:
+- uses: actions/checkout@v3
+- uses: actions/setup-node@v3
+  with:
+    node-version: 16
+- run: npm ci
+- run: npm test
