@@ -13,19 +13,7 @@ Project #1 is an example project, I will use this ticketing system as an example
 ---
 
 - :red_circle: [Ticketing System](#Ticketing-System) (Taken)<br>
-- :green_circle: [Example Project #2](#Project-2) (Available)<br>
-- :green_circle: [Example Project #3](#Project-3) (Available)<br>
-- :green_circle: [Example Project #4](#Project-4) (Available)<br>
-- :green_circle: [Example Project #5](#Project-5) (Available)<br>
-- :green_circle: [Example Project #6](#Project-6) (Available)<br>
-- :green_circle: [Example Project #7](#Project-7) (Available)<br>
-- :green_circle: [Example Project #8](#Project-8) (Available)<br>
-- :green_circle: [Example Project #9](#Project-9) (Available)<br>
-- :green_circle: [Example Project #10](#Project-10) (Available)<br>
-- :green_circle: [Example Project #11](#Project-11) (Available)<br>
-- :green_circle: [Example Project #12](#Project-12) (Available)<br>
-- :green_circle: [Example Project #13](#Project-13) (Available)<br>
-- :green_circle: [Example Project #14](#Project-14) (Available)<br>
+- :green_circle: [Medical Assisting #2](#Medical-Assisting) (Available)<br>
 
 ---
 
@@ -46,171 +34,15 @@ Project #1 is an example project, I will use this ticketing system as an example
 
 ---
 
-## Project 2
+## Medical Assisting
 ### :green_circle: (AVAILABLE)
 
-> - Time Frame
+> - 1 year
 >
-> - About the Business
+> - Catalyst Center Medical Assisting
 >
-> - Description/General Project Scope
+> - Medical patient and charting database
 >
-> - Difficulty
+> - Difficulty: 4
 >
-> - Contact Info (?)
-
----
-
-## Project 3
-### :green_circle: (AVAILABLE)
-
-> - Time Frame
->
-> - About the Business
->
-> - Description/General Project Scope
->
-> - Contact Info (?)
-
----
-
-## Project 4
-### :green_circle: (AVAILABLE)
-
-> - Time Frame
->
-> - About the Business
->
-> - Description/General Project Scope
->
-> - Contact Info (?)
-
----
-
-## Project 5
-### :green_circle: (AVAILABLE)
-
-> - Time Frame
->
-> - About the Business
->
-> - Description/General Project Scope
->
-> - Contact Info (?)
-
----
-
-## Project 6
-### :green_circle: (AVAILABLE)
-
-> - Time Frame
->
-> - About the Business
->
-> - Description/General Project Scope
->
-> - Contact Info (?)
-
----
-
-## Project 7
-### :green_circle: (AVAILABLE)
-
-> - Time Frame
->
-> - About the Business
->
-> - Description/General Project Scope
->
-> - Contact Info (?)
-
----
-
-## Project 8
-### :green_circle: (AVAILABLE)
-
-> - Time Frame
->
-> - About the Business
->
-> - Description/General Project Scope
->
-> - Contact Info (?)
-
----
-
-## Project 9
-### :green_circle: (AVAILABLE)
-
-> - Time Frame
->
-> - About the Business
->
-> - Description/General Project Scope
->
-> - Contact Info (?)
-
----
-
-## Project 10
-### :green_circle: (AVAILABLE)
-
-> - Time Frame
->
-> - About the Business
->
-> - Description/General Project Scope
->
-> - Contact Info (?)
-
----
-
-## Project 11
-### :green_circle: (AVAILABLE)
-
-> - Time Frame
->
-> - About the Business
->
-> - Description/General Project Scope
->
-> - Contact Info (?)
-
----
-
-## Project 12
-### :green_circle: (AVAILABLE)
-
-> - Time Frame
->
-> - About the Business
->
-> - Description/General Project Scope
->
-> - Contact Info (?)
-
----
-
-## Project 13
-### :green_circle: (AVAILABLE)
-
-> - Time Frame
->
-> - About the Business
->
-> - Description/General Project Scope
->
-> - Contact Info (?)
-
----
-
-## Project 14
-### :green_circle: (AVAILABLE)
-
-> - Time Frame
->
-> - About the Business
->
-> - Description/General Project Scope
->
-> - Contact Info (?)
+> - Mrs. Decow
