@@ -38,7 +38,7 @@ Project #1 is an example project, I will use this ticketing system as an example
 
 ---
 
-## Medical Assisting
+# Medical Assisting
 > ### :green_circle: (AVAILABLE)
 >
 > - 1 year
