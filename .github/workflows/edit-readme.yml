@@ -7,14 +7,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-          uses: actions/checkout@v2.3.2
-      - name: Modifiy the specific files using scripts
+        uses: actions/checkout@v2.3.2
         run: "ls"
-        - name: Commit and push changes
-         run: |
-         git config --global user.name "your username"
-         git config --global user.email "your email"
+      - name: Commit and push changes
+        run: |
+        git config --global user.name "your username"
+        git config --global user.email "your email"
 
-         git add -A
-         git commit -m "commit message"
-         git push
+        git add -A
+        git commit -m "commit message"
+        git push
