@@ -1,6 +1,6 @@
 on: issues
 jobs:
-job1:
+job_name:
 runs-on: ubuntu-latest
 steps:
 - name: View issue information
