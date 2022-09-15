@@ -1,9 +1,6 @@
 name: 'Setup Node.js environment'
 description: 'Setup a Node.js environment by adding problem matchers and optionally downloading and adding it to the PATH.'
 author: 'GitHub'
-on:
-  workflow_dispatch: #
-
 inputs:
   always-auth:
     description: 'Set always-auth in npmrc.'
