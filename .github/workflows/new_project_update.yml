@@ -1,17 +1,16 @@
-name: Issue yoinker
-
-on: 
-  issues:
-    types:
-      -opened
-      -labeled
-
+on:
+  workflow_call:
+    inputs:
+      username:
+        description: 'A username passed from the caller workflow'
+        default: 'john-doe'
+        required: false
+        type: string
 
 jobs:
-  echo_issue:
+  print-username:
     runs-on: ubuntu-latest
+
     steps:
-      - name: head content
-      run: echo "heya!"
-      - name: body content
-      run: echo "heyo!"
+      - name: Print the input name to STDOUT
+        run: echo The username is ${{ inputs.username }}
