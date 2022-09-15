@@ -16,14 +16,11 @@ jobs:
   add-comment:
     if: github.event.label.name == 'New Project'
     runs-on: ubuntu-latest
-    permissions:
-      issues: write
     steps:
       - name: Add comment
         uses: peter-evans/create-or-update-comment@a35cf36e5301d70b76f316e867e7788a55a31dae
         with:
           issue-number: ${{ github.event.issue.number }}
           body: |
-            We will begin working on your project request in a moment!
-            :sparkles: Thank you for your help! :sparkles:
-            (also this was automated, soon the workflow will automatically add your project to the readme.)
+            Thanks for adding a new project to the readme!
+            (this is automated lol)
