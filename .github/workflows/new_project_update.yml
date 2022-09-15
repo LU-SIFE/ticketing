@@ -1,0 +1,6 @@
+name: test-workflow
+on: issues
+  types:
+    -labeled
+    jobs:
+      if: ${{ github.event.label.name == 'New Project' }}
