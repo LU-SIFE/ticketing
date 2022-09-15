@@ -1,8 +1,9 @@
+name: test
 on:
   workflow_dispatch: #
 
 jobs:
-  job1:
+  new-job:
     name: Modifiy repository files
     runs-on: ubuntu-latest
     steps:
