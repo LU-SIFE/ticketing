@@ -24,7 +24,7 @@ jobs:
         run: ls
 
       - name: whatever
-        run: index_link="$(${{ github.event.issue.title}} | tr '-' ' ')"
+        run: index_link="$(echo '${{ github.event.issue.title}}' | tr '-' ' ')"
 
       - name: find a specific string in README
         run: sed -i '/<!-- INDEX MARKER -->/ i - 🟢 [ ${{ github.event.issue.title }} ](#$index_link) (Available)\<br\>' README.md
