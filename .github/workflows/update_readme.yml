@@ -24,7 +24,7 @@ jobs:
         run: ls
 
       - name: find a specific string in README
-        run: index_line=`sed -n '0,/<!-- INDEX MARKER -->/p' README.md | wc -l`
+        run: index_line=`echo "$(README.md)" | sed -n '0,/<!-- INDEX MARKER -->/p' | wc -l`
 
       - name: debug index_line
         run: echo "$index_line"
