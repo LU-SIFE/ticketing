@@ -23,8 +23,11 @@ jobs:
       - name: List files (debug)
         run: ls
 
+      - name: whatever
+        run: index_link="$(echo ${{ github.event.issue.title}} | tr "-" " ")""
+
       - name: find a specific string in README
-        run: sed -i '/<!-- INDEX MARKER -->/ e index_link=$(echo ${{ github.event.issue.title}}) | tr "-" " ")" i - 🟢 [ ${{ github.event.issue.title }} ](#$index_link) (Available)\<br\>' README.md
+        run: sed -i '/<!-- INDEX MARKER -->/ i - 🟢 [ ${{ github.event.issue.title }} ](#$index_link) (Available)\<br\>' README.md
 
       - name: View issue information
         run: 'echo -e "\n \n${{ github.event.issue.body }}" >> README.md'
