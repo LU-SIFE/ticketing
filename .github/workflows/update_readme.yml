@@ -16,9 +16,10 @@ jobs:
           body: |
             Thanks for adding a new project to the readme!
             (this is automated lol)
-
+      - name: List files (debug)
+        run: ls
+        
       - name: View issue information
-        run: 'ls'
         run: 'echo "${{ github.event.issue.body }} $(<readme.md)"'
 
       - name: Checkout repository
