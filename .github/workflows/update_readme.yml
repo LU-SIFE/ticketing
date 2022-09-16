@@ -24,7 +24,7 @@ jobs:
         run: ls
 
       - name: find a specific string in README
-        run: sed -i "/<!-- INDEX MARKER -->/ i "" README.md
+        run: sed -i "/<!-- INDEX MARKER -->/ i "new title:\ ${{ github.event.issue.title }}" README.md
 
       - name: View issue information
         run: 'echo -e "\n \n${{ github.event.issue.body }}" >> README.md'
