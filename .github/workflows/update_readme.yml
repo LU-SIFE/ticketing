@@ -23,17 +23,14 @@ jobs:
       - name: List files (debug)
         run: ls
 
-      - name: assign circle
-        run: index_circle="\:green_circle"
-
-      - name: Assign variable
-        run: index_string="\[${{ github.event.issue.title }}\]\(\#${{ github.event.issue.title }}\) \(Available\)\<br\>"
-
       - name: find a specific string in README
-        run: sed -i "/<!-- INDEX MARKER -->/ i '- $index_circle :\  $index_string'" README.md
+        run: sed -i "/<!-- INDEX MARKER -->/ i "" README.md
 
       - name: View issue information
         run: 'echo -e "\n \n${{ github.event.issue.body }}" >> README.md'
 
       - name: Git Auto Commit
         uses: stefanzweifel/git-auto-commit-action@v4.14.1
+
+      #THIS IS WHAT NEEDS TO BE ADDED BEFORE <!-- INDEX MARKER -->
+      #- :green_circle: [${{ github.event.issue.title }}](#${{ github.event.issue.title }}) (Available)<br>
