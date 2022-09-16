@@ -18,6 +18,7 @@ Project #1 is an example project, I will use this ticketing system as an example
 
 - :red_circle: [Ticketing System](#Ticketing-System) (Taken)<br>
 - :green_circle: [Medical Assisting](#Medical-Assisting) (Available)<br>
+<!-- INDEX MARKER -->
 
 ---
 

@@ -23,6 +23,9 @@ jobs:
       - name: List files (debug)
         run: ls
 
+      - name: find a specific string in README
+        run: sed -n '0,/<!-- INDEX MARKER -->/p' README.md | wc -l
+
       - name: View issue information
         run: 'echo -e "\n \n${{ github.event.issue.body }}" >> README.md'
 
