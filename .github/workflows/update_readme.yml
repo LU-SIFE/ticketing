@@ -24,10 +24,7 @@ jobs:
         run: ls
 
       - name: find a specific string in README
-        run: index_line=`sed -n '0,/<!-- INDEX MARKER -->/p' README.md | wc -l > index_marker.txt`
-
-      - name: debug index_line
-        run: echo "$(cat index_marker.txt)"
+        run: sed '/<!-- INDEX MARKER -->>/ i "test line"' README.md
 
       - name: View issue information
         run: 'echo -e "\n \n${{ github.event.issue.body }}" >> README.md'
