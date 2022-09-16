@@ -20,6 +20,7 @@ Project #1 is an example project, I will use this ticketing system as an example
 - 🟢 [Medical Assisting](#Medical-Assisting) (Available)<br>
 - 🟢 [ Example Project # ](#echo "Example Project #" | tr "-" " "") (Available)<br>
 - 🟢 [ Example Project # ](#`echo "Example Project #" | tr "-" " ""`) (Available)<br>
+- 🟢 [ Example Project # ](#sed -e "s/ /-/g" Example Project # ) (Available)<br>
 <!-- INDEX MARKER -->
 
 ---
@@ -57,6 +58,24 @@ Project #1 is an example project, I will use this ticketing system as an example
 > - Difficulty: 4
 >
 > - Mrs. Decow
+ 
+---
+
+# Example Project
+> ### :green_circle: (AVAILABLE)
+>
+> - Time Frame
+>
+> - About Business
+>
+> - Project Scope
+>
+> - Skills: 
+>
+> - Difficulty: 
+>
+> - Contact info(?)
+
  
 ---
 
