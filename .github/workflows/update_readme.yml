@@ -24,13 +24,10 @@ jobs:
         run: ls
 
       - name: find a specific string in README
-        run: sed -i '/<!-- INDEX MARKER -->/ i "\- \:green_circle\: \[Medical Assisting\]\(#Medical-Assisting\) (Available)\<br\>"' README.md
+        run: sed -i '/<!-- INDEX MARKER -->/ i "\- \:green_circle\: \[${{ github.event.issue.title }}\]\(\#${{ github.event.issue.title }}\) \(Available\)\<br\>"' README.md
 
       - name: View issue information
         run: 'echo -e "\n \n${{ github.event.issue.body }}" >> README.md'
 
       - name: Git Auto Commit
         uses: stefanzweifel/git-auto-commit-action@v4.14.1
-
-
-        ${{ github.event.issue.title }}"
