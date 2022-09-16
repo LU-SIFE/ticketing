@@ -1,2 +1,2 @@
-local  new_entry=" echo "echo ${{ github.event.issue.title }} | tr " " "-"""
+local  new_entry=" echo ${{ github.event.issue.title }} | tr " " "-""
 echo "$new_entry"
