@@ -18,6 +18,7 @@ Project #1 is an example project, I will use this ticketing system as an example
 
 - :red_circle: [Ticketing System](#Ticketing-System) (Taken)<br>
 - :green_circle: [Medical Assisting](#Medical-Assisting) (Available)<br>
+"Example Project #"
 <!-- INDEX MARKER -->
 
 ---
@@ -55,3 +56,20 @@ Project #1 is an example project, I will use this ticketing system as an example
 > - Difficulty: 4
 >
 > - Mrs. Decow
+ 
+---
+
+# Example Project
+> ### :green_circle: (AVAILABLE)
+>
+> - Time Frame
+>
+> - About Business
+>
+> - Project Scope
+>
+> - Skills: 
+>
+> - Difficulty: 
+>
+> - Contact info(?)
