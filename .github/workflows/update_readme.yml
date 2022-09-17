@@ -14,19 +14,17 @@ jobs:
         with:
           issue-number: ${{ github.event.issue.number }}
           body: |
-            Thanks for adding a new project to the readme!
-            (this is automated lol)
-
-      - name: Checkout repository
+            Thank you for properly formatting a new entry!
+            Your project has been added to the README.
+            (This comment is automated. please close this issue.)
+            
+      - name: Repo Checkout
         uses: actions/checkout@v2.3.2
 
-      - name: List files (debug)
-        run: ls
+      - name: Add new entry to INDEX MARKER
+        run: sed -inr '/<!-- INDEX MARKER -->/ i - 🟢 [${{ github.event.issue.title }}](#${{ github.event.issue.title }}) (Available)<br>' README.md
 
-      - name: find a specific string in README
-        run: firstLine="${{ github.event.issue.body}} | head -1" && sed -inr '/<!-- INDEX MARKER -->/ i - 🟢 [${ firstLine }](#${{ github.event.issue.title }}) (Available)<br>' README.md
-
-      - name: View issue information
+      - name: Create new project entry
         run: 'echo -e "\n \n${{ github.event.issue.body }}" >> README.md'
 
       - name: Git Auto Commit
