@@ -9,4 +9,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: full dump
-        run: 'echo "${{ toJSON(github.event.issue.comments_url) }}"'
+        run: 'echo "${{ toJSON(github.event.issue.comments_url.body) }}"'
