@@ -23,8 +23,11 @@ jobs:
       - name: List files (debug)
         run: ls
 
+      - name: get first line
+        run: firstLine=`echo "${{ github.event.issue.body}}" | head -1`
+
       - name: find a specific string in README
-        run: sh obtain_issue_info.sh
+        run: sed -inr '/<!-- INDEX MARKER -->/ i - 🟢 [${firstLine}](#${{ github.event.issue.title }}) (Available)<br>' README.md
 
       - name: View issue information
         run: 'echo -e "\n \n${{ github.event.issue.body }}" >> README.md'
