@@ -8,5 +8,9 @@ jobs:
   dump-entire-github-context:
     runs-on: ubuntu-latest
     steps:
+
+        - name: Checkout repository
+        uses: actions/checkout@v2.3.2
+
       - name: full dump
         run: 'sh fetch_comments.sh'
