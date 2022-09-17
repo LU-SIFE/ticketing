@@ -4,7 +4,7 @@ on:
     types:
       - labeled
 jobs:
-  Add New Project:
+  Add_New_Project:
     # Projects are only added when the "New Project" label is applied
     if: github.event.label.name == 'New Project'
     runs-on: ubuntu-latest
