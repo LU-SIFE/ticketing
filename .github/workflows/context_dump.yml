@@ -6,4 +6,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: full dump
-        run: 'echo "${{ toJSON(github) }}"'
+        run: 'echo "${{ toJSON(github.issues) }}"'
