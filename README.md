@@ -1,5 +1,3 @@
-# Web Dev Ticketing
-
 ![Alt](https://repobeats.axiom.co/api/embed/2630eaae3774c9d934e953bccf717554c24fd987.svg "Repobeats analytics image")
 
 This repository is an example of what the ticketing system could look like. The below links take you to each project available.
@@ -12,8 +10,6 @@ New projects can be added by opening a [new issue](https://github.com/LU-SIFE/We
 
 Students can also use or open issues to discuss problems they are having with a specific project.
 
->(If anyone has any github workflows experience, it would be greatly appreciated, I am working on a self-updating README, and it would be EXTREMELY helpful lol, shoot me an email, or open a new issue and mention me or something.)
-
 Project #1 is an example project, I will use this ticketing system as an example.
 
 ---
@@ -25,35 +21,35 @@ Project #1 is an example project, I will use this ticketing system as an example
 ---
 
 # Ticketing System
->### 🔴 (TAKEN BY [@LU-SIFE](https://github.com/LU-SIFE))
->
-> - 1 Week
->
-> - Web Dev is a class which has several projects students work on.
->
-> - Web Dev has 30+ projects on Backlog, and needs a way to manage them all with an organized system where all projects can be listed, viewed, and added on to. Organization and collaboration is an important feature to be implemented.
->
-> - Skills: Github Proficiency
->
-> - Difficulty: 2
->
-> - Contact Info (?)
->
-> - [Link To Github Repository/Project](https://github.com/LU-SIFE/Web-Dev-Ticketing)
+### 🔴 (TAKEN BY [@LU-SIFE](https://github.com/LU-SIFE))
+
+- 1 Week
+
+- Web Dev is a class which has several projects students work on.
+
+- Web Dev has 30+ projects on Backlog, and needs a way to manage them all with an organized system where all projects can be listed, viewed, and added on to. Organization and collaboration is an important feature to be implemented.
+
+- Skills: Github Proficiency
+
+- Difficulty: 2
+
+- Contact Info (?)
+
+- [Link To Github Repository/Project](https://github.com/LU-SIFE/Web-Dev-Ticketing)
 
 ---
 
 # Medical Assisting
-> ### 🟢 (AVAILABLE)
->
-> - 1 year
->
-> - Catalyst Center Medical Assisting
->
-> - Medical patient and charting database
->
-> - Skills: SQL (maybe idk)
->
-> - Difficulty: 4
->
-> - Mrs. Decow
+### 🟢 (AVAILABLE)
+
+- 1 year
+
+- Catalyst Center Medical Assisting
+
+- Medical patient and charting database
+
+- Skills: SQL (maybe idk)
+
+- Difficulty: 4
+
+- Mrs. Decow
