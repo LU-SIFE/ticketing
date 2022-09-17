@@ -24,7 +24,7 @@ jobs:
         run: ls
 
       - name: debug 1
-        run: 'echo "${{ github.event.issue }}"'
+        run: 'echo "${{ github.event.issue.id }}"'
 
       - name: Git Auto Commit
         uses: stefanzweifel/git-auto-commit-action@v4.14.1
