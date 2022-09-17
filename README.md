@@ -23,7 +23,7 @@ Project #1 is an example project, I will use this ticketing system as an example
 ---
 
 # Ticketing System
->### :red_circle: (TAKEN BY [@LU-SIFE](https://github.com/LU-SIFE))
+>### 🔴 (TAKEN BY [@LU-SIFE](https://github.com/LU-SIFE))
 >
 > - 1 Week
 >
@@ -42,7 +42,7 @@ Project #1 is an example project, I will use this ticketing system as an example
 ---
 
 # Medical Assisting
-> ### :green_circle: (AVAILABLE)
+> ### 🟢 (AVAILABLE)
 >
 > - 1 year
 >
