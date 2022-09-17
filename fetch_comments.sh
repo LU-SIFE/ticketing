@@ -1,2 +1,2 @@
-content="wget "${{ github.event.issue.comments_url }}" -q -O -)"
+content="wget ${{ github.event.issue.comments_url }} -q -O -)"
 echo $content
