@@ -1,6 +1,6 @@
 name: context dump
-  on:
-    workflow_dispatch: #
+on:
+  workflow_dispatch: #
 jobs:
   dump-entire-github-context:
     runs-on: ubuntu-latest
