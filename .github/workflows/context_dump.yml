@@ -1,9 +1,12 @@
 name: context dump
 on:
+  issues:
+    types:
+      - labeled
   workflow_dispatch: #
 jobs:
   dump-entire-github-context:
     runs-on: ubuntu-latest
     steps:
       - name: full dump
-        run: 'echo "${{ toJSON(github.issues) }}"'
+        run: 'echo "${{ toJSON(github.event) }}"'
