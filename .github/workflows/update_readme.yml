@@ -24,10 +24,10 @@ jobs:
         run: ls
 
       - name: get first line
-        run: firstLine=`echo "${{ github.event.issue.body}}" | head -1`
+        run: firstLine="echo "${{ github.event.issue.body}}" | head -1"
 
       - name: find a specific string in README
-        run: sed -inr '/<!-- INDEX MARKER -->/ i - 🟢 [${firstLine}](#${{ github.event.issue.title }}) (Available)<br>' README.md
+        run: sed -inr '/<!-- INDEX MARKER -->/ i - 🟢 [${{ firstLine }}](#${{ github.event.issue.title }}) (Available)<br>' README.md
 
       - name: View issue information
         run: 'echo -e "\n \n${{ github.event.issue.body }}" >> README.md'
