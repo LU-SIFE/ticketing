@@ -55,3 +55,37 @@ Project #1 is an example project, I will use this ticketing system as an example
 - Difficulty: 4
 
 - Mrs. Decow
+
+---
+
+# Pickleball Bookings
+### 🔴 (TAKEN BY Marianne Sanders)
+
+- (unknown time frame)
+
+- Pickleball courts booking site
+
+- website and web app for scheduling courts
+
+- Skills: Basic Html, Css, etc.
+
+- Difficulty: (?)
+
+- Marianne
+
+---
+
+# Catalyst Cooks
+### 🟢 (AVAILABLE)
+
+- (unknown time frame)
+
+- Catalyst Cafe
+
+- Website for cooking and selling meal kits
+
+- Skills: Basic Html, Css, etc.
+
+- Difficulty: (?)
+
+- (?)
