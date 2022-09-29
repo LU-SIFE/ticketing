@@ -17,7 +17,7 @@ Project #1 is an example project, I will use this ticketing system as an example
 ---
 
 - 🔴 [ticketing system](#ticketing-system) (Taken)<br>
-- 🟢 [medical assisting](#medical-assisting) (Available)<br>
+- 🟢 [medical assisting](#medical-assisting) (Taken)<br>
 <!-- INDEX MARKER -->
 
 ---
@@ -42,7 +42,7 @@ Project #1 is an example project, I will use this ticketing system as an example
 ---
 
 # medical assisting
-### 🟢 (AVAILABLE)
+### 🟢 (TAKEN BY  [@LU-SIFE](https://github.com/LU-SIFE))
 
 - 1 year
 
