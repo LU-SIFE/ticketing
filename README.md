@@ -14,9 +14,9 @@ Project #1 is an example project, I will use this ticketing system as an example
 
 ---
 
-- 🔴 [ticketing system](#ticketing-system) (Taken)<br>
-- 🔴 [medical assisting](#medical-assisting) (Taken)<br>
-- 🔴 [pickleball bookings](#pickleball-bookings) (Taken)<br>
+- 🔴 [ticketing system](#ticketing-system) (Taken / Recruiting)<br>
+- 🔴 [medical assisting](#medical-assisting) (Taken / Recruiting)<br>
+- 🔴 [pickleball bookings](#pickleball-bookings) (Taken / Recruiting)<br>
 - 🟢 [catalyst cooks](#catalyst-cooks) (Available)<br>
 - 🟢 [sweets divine kettle corn](#sweets-divine-kettle-corn) (Available)<br>
 - 🟢 [own your good](#own-your-good) (Available)<br>
