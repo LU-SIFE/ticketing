@@ -30,6 +30,7 @@ Project #1 is an example project, I will use this ticketing system as an example
 - 🟢 [utah state esports](#utah-state-esports) (Available)<br>
 - 🟢 [travelers motel](#travelers-motel) (Available)<br>
 <!-- INDEX MARKER -->
+
 ---
 
 # ticketing system
