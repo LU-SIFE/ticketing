@@ -43,9 +43,9 @@ Project #1 is an example project, I will use this ticketing system as an example
 
 - Skills: Github Proficiency
 
-- Difficulty: 2
+- Difficulty: (0.25)
 
-- Contact Info (?)
+- itslusife@gmail.com
 
 - [Link To Github Repository/Project](https://github.com/LU-SIFE/Web-Dev-Ticketing)
 
@@ -60,7 +60,7 @@ Project #1 is an example project, I will use this ticketing system as an example
 
 - Skills: SQL (maybe idk)
 
-- Difficulty: 4
+- Difficulty: (4)
 
 - Mrs. Decow
 
@@ -73,7 +73,7 @@ Project #1 is an example project, I will use this ticketing system as an example
 
 - website and web app for scheduling courts
 
-- Difficulty: (?)
+- Difficulty: (3-4)
 
 - Marianne / 916-740-5008, marianne@stonecobra.com (phone call preferred)
 
@@ -86,7 +86,7 @@ Project #1 is an example project, I will use this ticketing system as an example
 
 - Website for cooking and selling meal kits
 
-- Difficulty: (?)
+- Difficulty: (2-3)
 
 - 801-989-4446, catalystcooks@gmail.com (email preferred)
 
@@ -99,7 +99,7 @@ Project #1 is an example project, I will use this ticketing system as an example
 
 - Full website for business, including calender events and order forms (personally RQ'd Tanner Scott)
 
-- Difficulty: (?)
+- Difficulty: (3-4)
 
 - 801-660-0097 baflint@dsdmail.net (text preferred)
 
@@ -112,7 +112,7 @@ Project #1 is an example project, I will use this ticketing system as an example
 
 - Full site(?) where people can access videos, docs, courses, similar to Udemy
 
-- Difficulty: (?)
+- Difficulty: (2-3)
 
 - 801-915-9950, Dave@yourowngood.life (text preferred)
 
@@ -127,7 +127,7 @@ Project #1 is an example project, I will use this ticketing system as an example
 
 - Landing web page and appointments
 
-- Difficulty: (?)
+- Difficulty: (2-2.5)
 
 - 801-628-0133, karynnutall@hotmail.com (text preferred)
 
@@ -140,7 +140,7 @@ Project #1 is an example project, I will use this ticketing system as an example
 
 - portfolio site showing off work, and an applet to upload new artwork
 
-- Difficulty (?)
+- Difficulty (2-3.5)
 
 - 801-668-2264, wendycustomart@gmail.com (email preferred)
 
@@ -153,7 +153,7 @@ Project #1 is an example project, I will use this ticketing system as an example
 
 - "Making sure my website is set up right for what I want to do, selling the worlds’s best cheesecakes!"
 
-- Difficulty: (?)
+- Difficulty: (1-1.5)
 
 - 801-510-5587, jscheesecakes.ut@gmail.com (text preferred)
 
@@ -165,6 +165,8 @@ Project #1 is an example project, I will use this ticketing system as an example
 - Behavioral health business
 
 - "update and organize our website" (maybe like an audit?)
+
+- Difficulty: (1-1.5)
 
 - 385-888-9040, G@abhofu.com (email preferred)
 
@@ -179,7 +181,7 @@ Project #1 is an example project, I will use this ticketing system as an example
 
 - "I guess just make my website look and work better?" (site redesign maybe)
 
-- Difficulty: (?)
+- Difficulty: (1)
 
 - 269-330-2762, glmcoachllc@gmail.com (phone call preferred)
 
@@ -194,7 +196,7 @@ Project #1 is an example project, I will use this ticketing system as an example
 
 - "building a website" (full site maybe)
 
-- Difficulty: (?)
+- Difficulty: (2-3.5)
 
 - 435-757-8446, pampermepretty22@gmail.com (text preferred)
 
@@ -207,7 +209,7 @@ Project #1 is an example project, I will use this ticketing system as an example
 
 - "Update website - especially faculty page with pictures and bios"
 
-- Difficulty: (?)
+- Difficulty: (0.5-1)
 
 - 801-710-4040, utahdanceacademy@gmail.com (phone call preferred)
 
@@ -222,7 +224,7 @@ Project #1 is an example project, I will use this ticketing system as an example
 
 - "Esports is growing really fast up here at USU. With popularity growing, I'd like to see a website made for it like other Esports organizations have them. We don't currently have anything for it." (Full site design)
 
-- Difficulty: (?)
+- Difficulty: (2-3.75)
 
 - 801-698-6864, anson.ho@usu.esu (email preferred)
 
@@ -234,5 +236,7 @@ Project #1 is an example project, I will use this ticketing system as an example
 - small motel in southern Utah
 
 - "I need a website made for my parents small motel in southern Utah. They have no computer or smart phone to maintain it so I will take care of that. The contact info is for myself but when you start developing the website we can create an email for the motel and I'll give you all their contact info." (full site design)
+
+- Difficulty: (1.5-2.5)
 
 - 435-695-3696, allenconstruction2020@gmail.com (phone call preferred)
