@@ -23,14 +23,14 @@ Project #1 is an example project, I will use this ticketing system as an example
 - 🟢 [sweets divine kettle corn](#sweets-divine-kettle-corn) (Available)<br>
 - 🟢 [own your good](#own-your-good) (Available)<br>
 - 🟢 [the inner self](#the-inner-self) (Available)<br>
-- 🟢 [wendy's custom art](#wendy's-custom-art) (Available)<br>
-- 🟢 [j's cheesecakes](#j's-cheesecakes) (Available)<br>
+- 🟢 [wendys custom art](#wendys-custom-art) (Available)<br>
+- 🟢 [js cheesecakes](#js-cheesecakes) (Available)<br>
 - 🟢 [alliant behavioral health of utah](#alliant-behavioral-health-of-utah) (Available)<br>
 - 🟢 [glmc llc](#glmc-llc) (Available)<br>
 - 🟢 [pamper me pretty](#pamper-me-pretty) (Available)<br>
 - 🟢 [utah dance academy](#utah-dance-academy) (Available)<br>
 - 🟢 [utah state esports](#utah-state-esports) (Available)<br>
-- 🟢 [travler's motel](#travler's-motel) (Available)<br>
+- 🟢 [travlers motel](#travlers-motel) (Available)<br>
 <!-- INDEX MARKER -->
 ---
 
@@ -133,7 +133,7 @@ Project #1 is an example project, I will use this ticketing system as an example
 
 ---
 
-# wendy's custom art
+# wendys custom art
 ### 🟢 (AVAILABLE)
 
 - local artist
@@ -146,7 +146,7 @@ Project #1 is an example project, I will use this ticketing system as an example
 
 ---
 
-# j's cheesecakes
+# js cheesecakes
 ### 🟢 (AVAILABLE)
 
 - cheesecake business
@@ -170,7 +170,7 @@ Project #1 is an example project, I will use this ticketing system as an example
 
 - [abhofu.com](abhofu.com)
 
---
+---
 
 # glmc llc
 ### 🟢 (AVAILABLE)
@@ -228,7 +228,7 @@ Project #1 is an example project, I will use this ticketing system as an example
 
 ---
 
-# travler's motel
+# travlers motel
 ### 🟢 (AVAILABLE)
 
 - small motel in southern Utah
