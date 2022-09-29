@@ -18,14 +18,14 @@ Project #1 is an example project, I will use this ticketing system as an example
 
 - 🔴 [ticketing system](#ticketing-system) (Taken)<br>
 - 🔴 [medical assisting](#medical-assisting) (Taken)<br>
+- 🔴 [pickleball bookings](#pickleball-bookings) (Taken)<br>
+- 🟢 [catalyst cooks](#catalyst-cooks) (Available)<br>
 <!-- INDEX MARKER -->
 
 ---
 
 # ticketing system
 ### 🔴 (TAKEN BY [@LU-SIFE](https://github.com/LU-SIFE))
-
-- 1 Week
 
 - Web Dev is a class which has several projects students work on.
 
@@ -44,8 +44,6 @@ Project #1 is an example project, I will use this ticketing system as an example
 # medical assisting
 ### 🔴 (TAKEN BY  [@LU-SIFE](https://github.com/LU-SIFE))
 
-- 1 year
-
 - Catalyst Center Medical Assisting
 
 - Medical patient and charting database
@@ -61,31 +59,103 @@ Project #1 is an example project, I will use this ticketing system as an example
 # Pickleball Bookings
 ### 🔴 (TAKEN BY Marianne Sanders)
 
-- (unknown time frame)
-
 - Pickleball courts booking site
 
 - website and web app for scheduling courts
 
-- Skills: Basic Html, Css, etc.
-
 - Difficulty: (?)
 
-- Marianne
+- Marianne / 916-740-5008, marianne@stonecobra.com (phone call preferred)
 
 ---
 
-# Catalyst Cooks
+# catalyst cooks
 ### 🟢 (AVAILABLE)
-
-- (unknown time frame)
 
 - Catalyst Cafe
 
 - Website for cooking and selling meal kits
 
-- Skills: Basic Html, Css, etc.
+- Difficulty: (?)
+
+- 801-989-4446, catalystcooks@gmail.com (email preferred)
+
+---
+
+# sweets divine kettle corn
+### 🟢 (AVAILABLE)
+
+- Family owned kettle corn business
+
+- Full website for business, including calender events and order forms (personally RQ'd Tanner Scott)
 
 - Difficulty: (?)
 
-- (?)
+- 801-660-0097 baflint@dsdmail.net (text preferred)
+
+---
+
+# own your good
+### 🟢 (AVAILABLE)
+
+- Life coach podcast
+
+- Full site(?) where people can access videos, docs, courses, similar to Udemy
+
+- Difficulty: (?)
+
+- 801-915-9950, Dave@yourowngood.life (text preferred)
+
+- [ownyourgood.life](ownyourgood.life)
+
+---
+
+# the inner self
+### 🟢 (AVAILABLE)
+
+- wellness coach business
+
+- Landing web page and appointments
+
+- Difficulty: (?)
+
+- 801-628-0133, karynnutall@hotmail.com (text preferred)
+
+---
+
+# wendy's custom art
+### 🟢 (AVAILABLE)
+
+- local artist
+
+- portfolio site showing off work, and an applet to upload new artwork
+
+- Difficulty (?)
+
+- 801-668-2264, wendycustomart@gmail.com (email preferred)
+
+---
+
+# j's cheesecakes
+### 🟢 (AVAILABLE)
+
+- cheesecake business
+
+- "Making sure my website is set up right for what I want to do, selling the worlds’s best cheesecakes!"
+
+- Difficulty: (?)
+
+- 801-510-5587, jscheesecakes.ut@gmail.com (text preferred)
+
+---
+
+# alliant behavioral health of utah
+### 🟢 (AVAILABLE)
+
+- Behavioral health business
+
+- "update and organize our website" (maybe like an audit?)
+
+- 385-888-9040, G@abhofu.com (email preferred)
+
+- [abhofu.com](abhofu.com)
