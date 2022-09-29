@@ -42,7 +42,7 @@ Project #1 is an example project, I will use this ticketing system as an example
 ---
 
 # medical assisting
-### 🟢 (TAKEN BY  [@LU-SIFE](https://github.com/LU-SIFE))
+### 🔴 (TAKEN BY  [@LU-SIFE](https://github.com/LU-SIFE))
 
 - 1 year
 
