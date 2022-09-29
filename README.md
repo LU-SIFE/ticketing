@@ -20,8 +20,18 @@ Project #1 is an example project, I will use this ticketing system as an example
 - 🔴 [medical assisting](#medical-assisting) (Taken)<br>
 - 🔴 [pickleball bookings](#pickleball-bookings) (Taken)<br>
 - 🟢 [catalyst cooks](#catalyst-cooks) (Available)<br>
+- 🟢 [sweets divine kettle corn](#sweets-divine-kettle-corn) (Available)<br>
+- 🟢 [own your good](#own-your-good) (Available)<br>
+- 🟢 [the inner self](#the-inner-self) (Available)<br>
+- 🟢 [wendy's custom art](#wendy's-custom-art) (Available)<br>
+- 🟢 [j's cheesecakes](#j's-cheesecakes) (Available)<br>
+- 🟢 [alliant behavioral health of utah](#alliant-behavioral-health-of-utah) (Available)<br>
+- 🟢 [glmc llc](#glmc-llc) (Available)<br>
+- 🟢 [pamper me pretty](#pamper-me-pretty) (Available)<br>
+- 🟢 [utah dance academy](#utah-dance-academy) (Available)<br>
+- 🟢 [utah state esports](#utah-state-esports) (Available)<br>
+- 🟢 [travler's motel](#travler's-motel) (Available)<br>
 <!-- INDEX MARKER -->
-
 ---
 
 # ticketing system
@@ -159,3 +169,70 @@ Project #1 is an example project, I will use this ticketing system as an example
 - 385-888-9040, G@abhofu.com (email preferred)
 
 - [abhofu.com](abhofu.com)
+
+--
+
+# glmc llc
+### 🟢 (AVAILABLE)
+
+- motorcycle coaching
+
+- "I guess just make my website look and work better?" (site redesign maybe)
+
+- Difficulty: (?)
+
+- 269-330-2762, glmcoachllc@gmail.com (phone call preferred)
+
+- [glmctrainer.com](www.glmctrainer.com)
+
+---
+
+# pamper me pretty
+### 🟢 (AVAILABLE)
+
+- unknown details
+
+- "building a website" (full site maybe)
+
+- Difficulty: (?)
+
+- 435-757-8446, pampermepretty22@gmail.com (text preferred)
+
+---
+
+# utah dance academy
+### 🟢 (AVAILABLE)
+
+- dance academy
+
+- "Update website - especially faculty page with pictures and bios"
+
+- Difficulty: (?)
+
+- 801-710-4040, utahdanceacademy@gmail.com (phone call preferred)
+
+- [Utahdanceacademy.com](Utahdanceacademy.com)
+
+---
+
+# utah state esports
+### 🟢 (AVAILABLE)
+
+- USU esports organization
+
+- "Esports is growing really fast up here at USU. With popularity growing, I'd like to see a website made for it like other Esports organizations have them. We don't currently have anything for it." (Full site design)
+
+- Difficulty: (?)
+
+- 801-698-6864, anson.ho@usu.esu (email preferred)
+
+---
+
+# travler's motel
+### 🟢 (AVAILABLE)
+
+- small motel in southern Utah
+
+- "I need a website made for my parents small motel in southern Utah. They have no computer or smart phone to maintain it so I will take care of that. The contact info is for myself but when you start developing the website we can create an email for the motel and I'll give you all their contact info." (full site design)
+
+- 435-695-3696, allenconstruction2020@gmail.com (phone call preferred)
