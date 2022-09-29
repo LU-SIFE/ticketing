@@ -2,13 +2,11 @@
 
 [Link to github repo](https://github.com/LU-SIFE/Web-Dev-Ticketing)
 
-This repository is an example of what the ticketing system could look like. The below links take you to each project available.
-
 For information on how this repository is supposed to be used, please refer to the [Wiki](https://github.com/LU-SIFE/Web-Dev-Ticketing/wiki).
 
 When a project is ready to be worked on, this README page can & will be updated to reflect which projects are available, and which are taken, and by whom.
 
-New projects can be added by opening a [new issue](https://github.com/LU-SIFE/Web-Dev-Ticketing/issues/1), which is quickly reviewed, and then the details of the new project is posted to the README. These can be opened by anyone.
+New projects can be added by opening a [new issue](https://github.com/LU-SIFE/Web-Dev-Ticketing/issues/1), which is quickly reviewed, and then the details of the new project is posted to the README. These can be opened by anyone. The REAME will also be updated semi-frequently for new entries from the microsoft form.
 
 Students can also use or open issues to discuss problems they are having with a specific project.
 
@@ -35,7 +33,7 @@ Project #1 is an example project, I will use this ticketing system as an example
 ---
 
 # ticketing system
-### 🔴 (TAKEN BY [@LU-SIFE](https://github.com/LU-SIFE))
+### 🔴 (TAKEN BY [LU-SIFE](https://github.com/LU-SIFE))
 
 - Web Dev is a class which has several projects students work on.
 
@@ -52,7 +50,7 @@ Project #1 is an example project, I will use this ticketing system as an example
 ---
 
 # medical assisting
-### 🔴 (TAKEN BY  [@LU-SIFE](https://github.com/LU-SIFE))
+### 🔴 (TAKEN BY [LU-SIFE](https://github.com/LU-SIFE))
 
 - Catalyst Center Medical Assisting
 
