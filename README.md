@@ -5,7 +5,6 @@
 ```
 Lucy Says:
 "Thanks for contributing!"
-
 ```
 
 ---
