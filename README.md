@@ -1,6 +1,6 @@
 ![Alt](https://repobeats.axiom.co/api/embed/2630eaae3774c9d934e953bccf717554c24fd987.svg "Repobeats analytics image")
 
-![pfp](https://images.weserv.nl/?url=https://github.com/lu-sife.png&h=100&w=100&fit=cover&mask=circle&maxage=7d)
+<img src="images/ina_2rounded.png" width="20%" height="20%">
 
 [Link to github repo](https://github.com/LU-SIFE/Web-Dev-Ticketing)
 
