@@ -1,5 +1,14 @@
 ![Alt](https://repobeats.axiom.co/api/embed/2630eaae3774c9d934e953bccf717554c24fd987.svg "Repobeats analytics image")
 
+<img src="https://github.com/LU-SIFE/ticketing/images/ina2_round.png" width="8.4%" height="8.4%" align="left">
+
+```
+Lucy Says:
+"Thanks for contributing!"
+```
+
+---
+
 [Link to github repo](https://github.com/LU-SIFE/Web-Dev-Ticketing)
 
 For information on how this repository is supposed to be used, please refer to the [Wiki](https://github.com/LU-SIFE/Web-Dev-Ticketing/wiki).
