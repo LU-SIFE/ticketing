@@ -34,7 +34,7 @@ Project #1 is an example project, I will use this ticketing system as an example
 ---
 
 # ticketing system
-### 🔴 (TAKEN BY [LU-SIFE](https://github.com/LU-SIFE))
+### 🔴 (TAKEN BY [Lucy](https://github.com/LU-SIFE))
 
 - Web Dev is a class which has several projects students work on.
 
@@ -51,7 +51,7 @@ Project #1 is an example project, I will use this ticketing system as an example
 ---
 
 # medical assisting
-### 🟡 (TAKEN BY [LU-SIFE](https://github.com/LU-SIFE))
+### 🟡 (TAKEN BY [Lucy](https://github.com/LU-SIFE), Hannah, Kyle)
 
 - Catalyst Center Medical Assisting
 
