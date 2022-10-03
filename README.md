@@ -1,6 +1,6 @@
 ![Alt](https://repobeats.axiom.co/api/embed/2630eaae3774c9d934e953bccf717554c24fd987.svg "Repobeats analytics image")
 
-<img src="https://github.com/LU-SIFE/ticketing/blob/931df192ca6cfb9a75a9f21be03d013148c362ab/images/ina2_round.png" width="10em" height="10em" align="left"> [Lucy:](https://github.com/LU-SIFE)<br>
+<img src="https://github.com/LU-SIFE/ticketing/blob/931df192ca6cfb9a75a9f21be03d013148c362ab/images/ina2_round.png" width="100em" height="100em" align="left"> [Lucy:](https://github.com/LU-SIFE)<br>
 "thanks for contributing!"
 
 ---
