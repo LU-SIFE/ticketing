@@ -3,6 +3,7 @@
 <img src="https://github.com/LU-SIFE/ticketing/blob/931df192ca6cfb9a75a9f21be03d013148c362ab/images/ina2_round.png" width="100em" height="100em" align="left"> [Lucy:](https://github.com/LU-SIFE)<br>
 "thanks for contributing!"
 </div>
+
 ---
 
 [Link to github repo](https://github.com/LU-SIFE/Web-Dev-Ticketing)
