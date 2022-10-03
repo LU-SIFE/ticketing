@@ -115,7 +115,7 @@ Project #1 is an example project, I will use this ticketing system as an example
 
 - 801-915-9950, Dave@yourowngood.life (text preferred)
 
-- [ownyourgood.life](ownyourgood.life)
+- [https://ownyourgood.life](https://ownyourgood.life)
 
 ---
 
@@ -169,7 +169,7 @@ Project #1 is an example project, I will use this ticketing system as an example
 
 - 385-888-9040, G@abhofu.com (email preferred)
 
-- [abhofu.com](abhofu.com)
+- [https://abhofu.com](https://abhofu.com)
 
 ---
 
@@ -184,7 +184,7 @@ Project #1 is an example project, I will use this ticketing system as an example
 
 - 269-330-2762, glmcoachllc@gmail.com (phone call preferred)
 
-- [glmctrainer.com](www.glmctrainer.com)
+- [https://glmctrainer.com](https://www.glmctrainer.com)
 
 ---
 
@@ -212,7 +212,7 @@ Project #1 is an example project, I will use this ticketing system as an example
 
 - 801-710-4040, utahdanceacademy@gmail.com (phone call preferred)
 
-- [Utahdanceacademy.com](Utahdanceacademy.com)
+- [https://Utahdanceacademy.com](https://Utahdanceacademy.com)
 
 ---
 
