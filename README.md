@@ -15,14 +15,14 @@ Project #1 is an example project, I will use this ticketing system as an example
 ---
 
 - 🔴 [ticketing system](#ticketing-system) (Taken / Recruiting)<br>
-- 🔴 [medical assisting](#medical-assisting) (Taken / Recruiting)<br>
-- 🔴 [pickleball bookings](#pickleball-bookings) (Taken / Recruiting)<br>
-- 🟢 [catalyst cooks](#catalyst-cooks) (Available)<br>
+- 🟡 [medical assisting](#medical-assisting) (Taken / Recruiting)<br>
+- 🟡 [pickleball bookings](#pickleball-bookings) (Taken / Recruiting)<br>
+- 🟡 [catalyst cooks](#catalyst-cooks) (Available)<br>
 - 🟢 [sweets divine kettle corn](#sweets-divine-kettle-corn) (Available)<br>
-- 🟢 [own your good](#own-your-good) (Available)<br>
+- 🟡 [own your good](#own-your-good) (Available)<br>
 - 🟢 [the inner self](#the-inner-self) (Available)<br>
-- 🟢 [wendys custom art](#wendys-custom-art) (Available)<br>
-- 🟢 [js cheesecakes](#js-cheesecakes) (Available)<br>
+- 🟡 [wendys custom art](#wendys-custom-art) (Available)<br>
+- 🟡 [js cheesecakes](#js-cheesecakes) (Available)<br>
 - 🟢 [alliant behavioral health of utah](#alliant-behavioral-health-of-utah) (Available)<br>
 - 🟢 [glmc llc](#glmc-llc) (Available)<br>
 - 🟢 [pamper me pretty](#pamper-me-pretty) (Available)<br>
@@ -51,7 +51,7 @@ Project #1 is an example project, I will use this ticketing system as an example
 ---
 
 # medical assisting
-### 🔴 (TAKEN BY [LU-SIFE](https://github.com/LU-SIFE))
+### 🟡 (TAKEN BY [LU-SIFE](https://github.com/LU-SIFE))
 
 - Catalyst Center Medical Assisting
 
@@ -66,7 +66,7 @@ Project #1 is an example project, I will use this ticketing system as an example
 ---
 
 # Pickleball Bookings
-### 🔴 (TAKEN BY Marianne Sanders)
+### 🟡 (TAKEN BY Marianne, Meek, Kason)
 
 - Pickleball courts booking site
 
@@ -79,7 +79,7 @@ Project #1 is an example project, I will use this ticketing system as an example
 ---
 
 # catalyst cooks
-### 🟢 (AVAILABLE)
+### 🟡 (TAKEN BY Kade, Amanda, Boston)
 
 - Catalyst Cafe
 
@@ -105,7 +105,7 @@ Project #1 is an example project, I will use this ticketing system as an example
 ---
 
 # own your good
-### 🟢 (AVAILABLE)
+### 🟡 (TAKEN BY Regan, Kohen)
 
 - Life coach podcast
 
@@ -133,7 +133,7 @@ Project #1 is an example project, I will use this ticketing system as an example
 ---
 
 # wendys custom art
-### 🟢 (AVAILABLE)
+### 🟡 (TAKEN BY Ty, Tad)
 
 - local artist
 
@@ -146,7 +146,7 @@ Project #1 is an example project, I will use this ticketing system as an example
 ---
 
 # js cheesecakes
-### 🟢 (AVAILABLE)
+### 🟡 (TAKEN BY Becket, Ben)
 
 - cheesecake business
 
