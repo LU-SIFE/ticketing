@@ -4,11 +4,11 @@
 
 For information on how this repository is supposed to be used, please refer to the [Wiki](https://github.com/LU-SIFE/Web-Dev-Ticketing/wiki).
 
-When a project is ready to be worked on, this README page can & will be updated to reflect which projects are available, and which are taken, and by whom.
-
-New projects can be added by opening a [new issue](https://github.com/LU-SIFE/Web-Dev-Ticketing/issues/1), which is quickly reviewed, and then the details of the new project is posted to the README. These can be opened by anyone. The REAME will also be updated semi-frequently for new entries from the microsoft form.
+New projects can be added by opening a [new issue](https://github.com/LU-SIFE/ticketing/issues/1), which is quickly reviewed, and then the details of the new project is posted to the README. These can be opened by anyone. The REAME will also be updated semi-frequently for new entries from the microsoft form.
 
 Students can also use or open issues to discuss problems they are having with a specific project.
+
+please, please, please, open issues. It helps me keep track of progress.
 
 Project #1 is an example project, I will use this ticketing system as an example.
 
@@ -46,7 +46,7 @@ Project #1 is an example project, I will use this ticketing system as an example
 
 - itslusife@gmail.com
 
-- [Link To Github Repository/Project](https://github.com/LU-SIFE/Web-Dev-Ticketing)
+- [Link To Github Repository/Project](https://github.com/LU-SIFE/ticketing)
 
 ---
 
