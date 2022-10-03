@@ -1,6 +1,6 @@
 ![Alt](https://repobeats.axiom.co/api/embed/2630eaae3774c9d934e953bccf717554c24fd987.svg "Repobeats analytics image")
 
-<img src="https://github.com/LU-SIFE/ticketing/blob/21ffae72764116c56d69ee8f73d227696e5d8c70/images/ina2_round.png" width="8.4%" height="8.4%" align="left">
+<img src="https://github.com/LU-SIFE/ticketing/blob/21ffae72764116c56d69ee8f73d227696e5d8c70/images/ina2_round.png?raw=true" width="8.4%" height="8.4%" align="left">
 
 ```
 Lucy Says:
@@ -9,9 +9,9 @@ Lucy Says:
 
 ---
 
-[Link to github repo](https://github.com/LU-SIFE/Web-Dev-Ticketing)
+[Link to github repo](https://github.com/LU-SIFE/ticketing)
 
-For information on how this repository is supposed to be used, please refer to the [Wiki](https://github.com/LU-SIFE/Web-Dev-Ticketing/wiki).
+For information on how this repository is supposed to be used, please refer to the [Wiki](https://github.com/LU-SIFE/ticketing/wiki).
 
 New projects can be added by opening a [new issue](https://github.com/LU-SIFE/ticketing/issues/1), which is quickly reviewed, and then the details of the new project is posted to the README. These can be opened by anyone. The REAME will also be updated semi-frequently for new entries from the microsoft form.
 
