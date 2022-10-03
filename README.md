@@ -1,5 +1,7 @@
 ![Alt](https://repobeats.axiom.co/api/embed/2630eaae3774c9d934e953bccf717554c24fd987.svg "Repobeats analytics image")
 
+![Lu-Sife](https://github.com/lu-sife.png)
+
 [Link to github repo](https://github.com/LU-SIFE/Web-Dev-Ticketing)
 
 For information on how this repository is supposed to be used, please refer to the [Wiki](https://github.com/LU-SIFE/Web-Dev-Ticketing/wiki).
