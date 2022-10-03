@@ -15,14 +15,14 @@ Project #1 is an example project, I will use this ticketing system as an example
 ---
 
 - 🔴 [ticketing system](#ticketing-system) (Done)<br>
-- 🟡 [medical assisting](#medical-assisting) (Taken / Recruiting)<br>
-- 🟡 [pickleball bookings](#pickleball-bookings) (Taken / Recruiting)<br>
-- 🟡 [catalyst cooks](#catalyst-cooks) (Available)<br>
-- 🟢 [sweets divine kettle corn](#sweets-divine-kettle-corn) (Available)<br>
-- 🟡 [own your good](#own-your-good) (Available)<br>
+- 🟡 [medical assisting](#medical-assisting) (Working)<br>
+- 🟡 [pickleball bookings](#pickleball-bookings) (Working)<br>
+- 🟡 [catalyst cooks](#catalyst-cooks) (Working)<br>
+- 🟡 [sweets divine kettle corn](#sweets-divine-kettle-corn) (Working)<br>
+- 🟡 [own your good](#own-your-good) (Working)<br>
 - 🟢 [the inner self](#the-inner-self) (Available)<br>
-- 🟡 [wendys custom art](#wendys-custom-art) (Available)<br>
-- 🟡 [js cheesecakes](#js-cheesecakes) (Available)<br>
+- 🟡 [wendys custom art](#wendys-custom-art) (Working)<br>
+- 🟡 [js cheesecakes](#js-cheesecakes) (Working)<br>
 - 🟢 [alliant behavioral health of utah](#alliant-behavioral-health-of-utah) (Available)<br>
 - 🟢 [glmc llc](#glmc-llc) (Available)<br>
 - 🟢 [pamper me pretty](#pamper-me-pretty) (Available)<br>
@@ -92,7 +92,7 @@ Project #1 is an example project, I will use this ticketing system as an example
 ---
 
 # sweets divine kettle corn
-### 🟢 (AVAILABLE)
+### 🟡 (TAKEN BY Tanner, Carson)
 
 - Family owned kettle corn business
 
