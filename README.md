@@ -1,6 +1,6 @@
 ![Alt](https://repobeats.axiom.co/api/embed/2630eaae3774c9d934e953bccf717554c24fd987.svg "Repobeats analytics image")
 
-<img src="https://github.com/lu-sife.png" width=50% height=50%>
+<img src="https://github.com/lu-sife.png" width=1% height=1%>
 
 [Link to github repo](https://github.com/LU-SIFE/Web-Dev-Ticketing)
 
