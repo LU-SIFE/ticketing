@@ -4,7 +4,7 @@
 
 ```
 Lucy Says:
-"Thanks for contributing! Maybe check out the repo as well? it's much more polished than this site :D"
+"Thanks for contributing!"
 ```
 
 ---
