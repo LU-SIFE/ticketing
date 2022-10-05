@@ -204,7 +204,7 @@ Project #1 is an example project, I will use this ticketing system as an example
 
 - unknown details
 
-- "building a website" (full site maybe?)
+- "building a website" (full site maybe)
 
 - Difficulty: (2-3.5)
 
