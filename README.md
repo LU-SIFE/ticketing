@@ -152,6 +152,8 @@ Project #1 is an example project, I will use this ticketing system as an example
 
 - 801-668-2264, wendycustomart@gmail.com (email preferred)
 
+- [Link to repo](https://github.com/MuddyMunch1o/WendysArt)
+
 ---
 
 # js cheesecakes
