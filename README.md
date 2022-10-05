@@ -142,7 +142,7 @@ Project #1 is an example project, I will use this ticketing system as an example
 ---
 
 # wendys custom art
-### 🟡 (TAKEN BY Ty, Tad)
+### 🟡 (TAKEN BY [Ty](https://github.com/MuddyMunch1o), [Tad](https://github.com/RevenantReaper))
 
 - local artist
 
