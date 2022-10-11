@@ -38,6 +38,9 @@ Project #1 is an example project, I will use this ticketing system as an example
 - 🟢 [utah dance academy](#utah-dance-academy) (Available)<br>
 - 🟢 [utah state esports](#utah-state-esports) (Available)<br>
 - 🟢 [travelers motel](#travelers-motel) (Available)<br>
+- 🟢 [hack your bureaucracy](#hack-your-bureaucracy) (Available)<br>
+- 🟢 [child wellfare playbook](#child-wellfare-playbook) (Available)<br>
+- 🟢 [daimian izatt](#daimian-izatt) (Available)<br>
 <!-- INDEX MARKER -->
 
 ---
@@ -250,3 +253,43 @@ Project #1 is an example project, I will use this ticketing system as an example
 - Difficulty: (1.5-2.5)
 
 - 435-695-3696, allenconstruction2020@gmail.com (phone call preferred)
+
+---
+
+# hack your bureaucracy
+### 🟢 (AVAILABLE)
+
+- online blog
+
+- "Hi Derrek and team! I have 3 possible different projects for this. 1: I need a second page of the existing website made that is a list of extra links / images referenced in the book. (So a new "page" on the existing site with text and links, which I have in Google Doc.) This should be straightforward. 2: I actually think this website is over-engineered (it requires Docker and Gatsby etc) and would love to move the current design to Squarespace. 3: Squarespace would solve for this, but we're currently using Medium for the blog which robs us of the ability to monitor/control SEO, etc so I'd love to restart the blog on Squarespace."
+
+- Difficulty: (?)
+
+- 206-715-8995, marina@marinanitze.com (email preferred)
+
+---
+
+# child wellfare playbook
+### 🟢 (AVAILABLE)
+
+- non-profit
+
+- "New content pages are added under https://www.childwelfareplaybook.com/recommendation via a JSON file. I'd love to give one or more of your students a Google Doc and have them convert it to the JSON template (which is picky about spacing!) and load to the site. This is my non-profit so it would be super super helpful!"
+
+- Difficulty: (0.5)
+
+- 206-715-8995, marina@marinanitze.com (email preferred)
+
+---
+
+# daimian izatt
+### 🟢 (AVAILABLE)
+
+- iron-working(?)
+
+- "Have a page to show people iron work."
+
+- Difficulty: (?)
+
+- 385-319-3261, daimianizatt@gmail.com (text preferred)
+
