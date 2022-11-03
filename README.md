@@ -41,6 +41,11 @@ Project #1 is an example project, I will use this ticketing system as an example
 - 🟢 [hack your bureaucracy](#hack-your-bureaucracy) (Available)<br>
 - 🟢 [child wellfare playbook](#child-wellfare-playbook) (Available)<br>
 - 🟢 [daimian izatt](#daimian-izatt) (Available)<br>
+- 🟢 [zack and kaden's adventure](#zack-and-kadens-adventure) (Available)<br>
+- 🟢 [balanced cns counseling](#balanced-cns-counseling) (Available)<br>
+- 🟢 [skilled sos](#skilled-sos) (Available)<br>
+- 🟢 [drip and heal](#drip-and-heal) (Available)<br>
+- 🟢 [cyoa products](#cyoa-products) (Available)<br>
 <!-- INDEX MARKER -->
 
 ---
@@ -292,4 +297,69 @@ Project #1 is an example project, I will use this ticketing system as an example
 - Difficulty: (?)
 
 - 385-319-3261, daimianizatt@gmail.com (text preferred)
+
+---
+
+# zack and kadens advertising
+### 🟢 (AVAILABLE)
+
+- advertising? image host?
+
+- Login, image uploading, project price planning, info screen, and admin panels
+
+- Difficulty: (?)
+
+- 385-216-4364, zackrkingston3@gmail.com (text preferred)
+
+---
+
+# balanced cns counseling
+### 🟢 (AVAILABLE)
+
+- 2 projects, a bog breeding program and mental health practice sites.
+
+- see above details i guess
+
+- Difficulty: (?)
+
+- 801-499-1278, katherine@balancedcns.com (email preferred)
+
+---
+
+# skilled sos
+### 🟢 (AVAILABLE)
+
+- website redesign?
+
+- "Redesign and build of websites"
+
+- Difficulty: (?)
+
+- 801-380-5575, robert@sidekickics.com (text preferred)
+
+---
+
+# drip and heal
+### 🟢 (AVAILABLE)
+
+- mobile IV hydration
+
+- unknown details
+
+- Difficulty: (?)
+
+- 801-842-9811, rtjency@gmail.com (email preferred)
+
+---
+
+# cyoa products
+### 🟢 (AVAILABLE)
+
+- bath and body products
+
+- unknown details
+
+- Difficulty: (?)
+
+- 435-757-8680, cyoaproducts@yahoo.com (text preferred)
 
