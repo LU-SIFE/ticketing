@@ -316,7 +316,7 @@ Project #1 is an example project, I will use this ticketing system as an example
 # balanced cns counseling
 ### 🟢 (AVAILABLE)
 
-- 2 projects, a bog breeding program and mental health practice sites.
+- 2 projects, a dog breeding program and mental health practice sites.
 
 - see above details i guess
 
