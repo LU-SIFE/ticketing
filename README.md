@@ -35,7 +35,7 @@ Project #1 is an example project, I will use this ticketing system as an example
 - 🟢 [alliant behavioral health of utah](#alliant-behavioral-health-of-utah) (Available)<br>
 - 🟢 [glmc llc](#glmc-llc) (Available)<br>
 - 🟢 [pamper me pretty](#pamper-me-pretty) (Available)<br>
-- 🟢 [utah dance academy](#utah-dance-academy) (Available)<br>
+- 🟡 [utah dance academy](#utah-dance-academy) (Available)<br>
 - 🟢 [utah state esports](#utah-state-esports) (Available)<br>
 - 🟢 [travelers motel](#travelers-motel) (Available)<br>
 - 🟢 [hack your bureaucracy](#hack-your-bureaucracy) (Available)<br>
@@ -221,7 +221,7 @@ Project #1 is an example project, I will use this ticketing system as an example
 ---
 
 # utah dance academy
-### 🟢 (AVAILABLE)
+### 🟡 (TAKEN)
 
 - dance academy
 
