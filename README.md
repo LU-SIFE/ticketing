@@ -41,7 +41,7 @@ Project #1 is an example project, I will use this ticketing system as an example
 - 🟢 [hack your bureaucracy](#hack-your-bureaucracy) (Available)<br>
 - 🟢 [child wellfare playbook](#child-wellfare-playbook) (Available)<br>
 - 🟢 [daimian izatt](#daimian-izatt) (Available)<br>
-- 🟢 [zack and kaden's adventure](#zack-and-kadens-adventure) (Available)<br>
+- 🟢 [zack and kaden's advertising](#zack-and-kadens-advertising) (Available)<br>
 - 🟢 [balanced cns counseling](#balanced-cns-counseling) (Available)<br>
 - 🟢 [skilled sos](#skilled-sos) (Available)<br>
 - 🟢 [drip and heal](#drip-and-heal) (Available)<br>
